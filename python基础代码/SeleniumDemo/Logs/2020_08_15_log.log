@@ -1,0 +1,9 @@
+[2020-08-15 11:45:47,899]  log.py-><module> line:30 [ERROR]error
+[2020-08-15 11:45:47,899]  log.py-><module> line:32 [INFO]info
+[2020-08-15 11:45:47,899]  log.py-><module> line:33 [CRITICAL]严重
+[2020-08-15 11:47:34,886]  log.py-><module> line:27 [ERROR]error
+[2020-08-15 11:47:34,886]  log.py-><module> line:29 [INFO]info
+[2020-08-15 11:47:34,886]  log.py-><module> line:30 [CRITICAL]严重
+[2020-08-15 11:48:35,902]  log.py-> line:27 [ERROR]error
+[2020-08-15 11:48:35,902]  log.py-> line:29 [INFO]info
+[2020-08-15 11:48:35,902]  log.py-> line:30 [CRITICAL]严重
